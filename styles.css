@@ -1,1 +1,89 @@
-/* Write your CSS here! */
+body {
+    background-color: oldlace;
+    margin: 8px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.funParagraph {
+    color: green
+}
+
+a {
+    padding: 1pc;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #FDFDFD;
+}
+
+a:link{
+    color: #FDFDFD;
+}
+
+header {
+    margin: auto;
+    width: 50%
+}
+
+ul {
+    padding: 1pc 0pc 1pc;
+    background-color: darkgray;
+    text-align: center;
+    list-style-type: none;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+li {
+    display: inline-block;
+}
+
+header h1 {
+    text-align: center;
+}
+
+main {
+    margin: auto;
+    width: 50%
+}
+
+#mainHeading {
+    color: red;
+}
+
+#otherGenerators {
+    padding: 1pc 10pc;
+}
+
+section {
+    padding: 1pc;
+}
+
+footer {
+    margin: auto;
+    width: 50%;
+    background-color: #444;
+    color: #FDFDFD;
+}
+
+footer div {
+    padding: 1pc;
+}
+
+.lightGray {
+    background-color: lightgray;
+    color: #444444;
+}
+
+.darkGray {
+    background-color: darkgray;
+    color: #FDFDFD;
+}

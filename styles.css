@@ -67,6 +67,17 @@ section {
     padding: 1pc;
 }
 
+footer {
+    margin: auto;
+    width: 50%;
+    background-color: #444;
+    color: #FDFDFD;
+}
+
+footer div {
+    padding: 1pc;
+}
+
 .lightGray {
     background-color: lightgray;
     color: #444444;

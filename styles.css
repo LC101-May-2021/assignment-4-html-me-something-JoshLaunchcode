@@ -16,11 +16,11 @@ a {
 }
 
 a:visited {
-    color: white;
+    color: #FDFDFD;
 }
 
 a:link{
-    color: white;
+    color: #FDFDFD;
 }
 
 header {
@@ -65,9 +65,10 @@ section {
 
 .lightGray {
     background-color: lightgray;
+    color: #444444;
 }
 
 .darkGray {
     background-color: darkgray;
-    color: white;
+    color: #FDFDFD;
 }

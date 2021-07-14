@@ -59,6 +59,10 @@ main {
     color: red;
 }
 
+#otherGenerators {
+    padding: 1pc 10pc;
+}
+
 section {
     padding: 1pc;
 }
